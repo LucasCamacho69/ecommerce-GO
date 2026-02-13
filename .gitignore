@@ -1,0 +1,14 @@
+bin/
+*.o
+*.out
+*.exe
+*.test
+go.work.sum
+go.work.lock
+.idea/         # IntelliJ/GoLand
+.vscode/       # VS Code
+*.swp          # Vim swap files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+.env
+.log
